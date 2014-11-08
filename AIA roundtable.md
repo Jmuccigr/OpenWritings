@@ -1,3 +1,8 @@
+Note to Collaborators
+
+I've just set down here some preliminary ideas about what we might discuss. My idea is just to get people together to meet each other and talk about what we're doing, what works, etc. Toward that end the topics need to be appealing, so please feel free to add/delete/change. I'm not attached to anything in particular.
+
+- - -
 #2015 AIA Roundtable
 ##Beyond Point & Click: Digital photography for the working archaeologist
 
