@@ -14,3 +14,6 @@ Some possible topics:
 * Photomosaics
 * High-dynamic range photography (or exposure blending)
 * Working with historic photos
+* Reflectance transformation imaging
+* Metadata management for photos
+* Integrating photographic data with GIS
