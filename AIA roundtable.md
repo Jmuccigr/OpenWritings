@@ -10,9 +10,9 @@ Advances in digital photography hardware and software mean that even non-expert 
 
 Some possible topics:
 * 3D
-- Reconstructions
-- Quantification of objects from photographs
-- Reconstrctions as dnamic image-storage formats
+    - Reconstructions
+    - Quantification of objects from photographs
+    - Reconstrctions as dnamic image-storage formats
 * Overhead photos
 * Photomosaics
 * High-dynamic range photography (or exposure blending)
@@ -20,6 +20,6 @@ Some possible topics:
 * Generating field drawings from photographs
 * Reflectance transformation imaging
 * Databases
-- Metadata management for photos
-- Import scripting for image databases
-- Integrating photographic data with GIS
+    - Metadata management for photos
+    - Import scripting for image databases
+    - Integrating photographic data with GIS
