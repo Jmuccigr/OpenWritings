@@ -9,11 +9,17 @@ I've just set down here some preliminary ideas about what we might discuss. My i
 Advances in digital photography hardware and software mean that even non-expert photographers can do some great things with their photos, on site, in the storerooms, and even back at home after the season is over. This roundtable will allow participants to discuss some of the things they are doing now, and some of the things they'd like to do. The goal is to share ideas and expertise.
 
 Some possible topics:
-* 3D reconstructions
+* 3D
+- Reconstructions
+- Quantification of objects from photographs
+- Reconstrctions as dnamic image-storage formats
 * Overhead photos
 * Photomosaics
 * High-dynamic range photography (or exposure blending)
 * Working with historic photos
+* Generating field drawings from photographs
 * Reflectance transformation imaging
-* Metadata management for photos
-* Integrating photographic data with GIS
+* Databases
+- Metadata management for photos
+- Import scripting for image databases
+- Integrating photographic data with GIS
